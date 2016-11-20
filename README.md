@@ -13,6 +13,12 @@ git commit 时，提交信息遵循以下格式：
 Ref <###>
 ```
 
+初次提交示例：
+
+```
+git commit -m ":tada: Initialize Repo"
+```
+
 ### emoji 指南
 
 emoji                                   | emoji 代码                   | commit 说明
