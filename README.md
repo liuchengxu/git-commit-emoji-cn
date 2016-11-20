@@ -59,3 +59,4 @@ emoji                                   | emoji 代码                   | commi
 - [gitmoji](https://github.com/carloscuesta/gitmoji/)
 - [An emoji guide for your commit messages](https://gitmoji.carloscuesta.me/)
 - [styleguide-git-commit-message](https://github.com/slashsBin/styleguide-git-commit-message)
+- [emoji-cheat-sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
