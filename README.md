@@ -40,7 +40,7 @@ emoji                                   | emoji 代码                   | commi
 :checkered_flag: (旗帜)                 | `:checked_flag:`             | 修复 Windows 下的问题
 :bookmark: (书签)                       | `:bookmark:`                 | 发行/版本标签
 :rotating_light: (警车灯)               | `:rotating_light:`           | 移除 linter 警告
-:construction: (施工)                   | `construction`               | 工作进行中
+:construction: (施工)                   | `:construction:`               | 工作进行中
 :green_heart: (绿心)                    | `:green_heart:`              | 修复 CI 构建问题
 :arrow_down: (下降箭头)                 | `:arrow_down:`               | 降级依赖
 :arrow_up: (上升箭头)                   | `:arrow_up:`                 | 升级依赖
