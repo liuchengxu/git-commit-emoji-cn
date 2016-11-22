@@ -30,7 +30,7 @@ git commit -m ":tada: Initialize Repo"
 emoji                                   | emoji 代码                   | commit 说明
 :--------                               | :--------                    | :--------
 :art: (调色板)                          | `:art:`                      | 改进代码结构/代码格式
-:zap: (闪电)                            | `:zap:`                      | 提高性能
+<ul><li>:zap: (闪电)</li><li>:racehorse:</li></ul>                            | <ul><li>`:zap:`</li><li>`:racehorse:`</li></ul>                      | 提升性能
 :fire: (火焰)                           | `:fire:`                     | 移除代码或文件
 :bug: (bug)                             | `:bug:`                      | 修复 bug
 :ambulance: (急救车)                    | `:ambulance:`                | 重要补丁
@@ -65,5 +65,6 @@ emoji                                   | emoji 代码                   | commi
 - [gitmoji](https://github.com/carloscuesta/gitmoji/)
 - [An emoji guide for your commit messages](https://gitmoji.carloscuesta.me/)
 - [styleguide-git-commit-message](https://github.com/slashsBin/styleguide-git-commit-message)
+- [atom git commit messages guide](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#git-commit-messages)
 - [emoji-cheat-sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
 - [程序员提交代码的 emoji 指南——原来表情文字不能乱用](https://www.h5jun.com/post/gitmoji.html)
