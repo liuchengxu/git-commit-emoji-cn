@@ -30,7 +30,7 @@ git commit -m ":tada: Initialize Repo"
 emoji                                   | emoji 代码                   | commit 说明
 :--------                               | :--------                    | :--------
 :art: (调色板)                          | `:art:`                      | 改进代码结构/代码格式
-<ul><li>:zap: (闪电)</li><li>:racehorse:</li></ul>                            | <ul><li>`:zap:`</li><li>`:racehorse:`</li></ul>                      | 提升性能
+<ul><li>:zap: (闪电)</li><li>:racehorse: (赛马)</li></ul>                            | <ul><li>`:zap:`</li><li>`:racehorse:`</li></ul>                      | 提升性能
 :fire: (火焰)                           | `:fire:`                     | 移除代码或文件
 :bug: (bug)                             | `:bug:`                      | 修复 bug
 :ambulance: (急救车)                    | `:ambulance:`                | 重要补丁
