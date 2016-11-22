@@ -66,3 +66,4 @@ emoji                                   | emoji 代码                   | commi
 - [An emoji guide for your commit messages](https://gitmoji.carloscuesta.me/)
 - [styleguide-git-commit-message](https://github.com/slashsBin/styleguide-git-commit-message)
 - [emoji-cheat-sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
+- [程序员提交代码的 emoji 指南——原来表情文字不能乱用](https://www.h5jun.com/post/gitmoji.html)
