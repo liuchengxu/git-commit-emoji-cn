@@ -60,6 +60,13 @@ emoji                                   | emoji 代码                   | commi
 :globe_with_meridians: (地球)           | `:globe_with_meridians:`     | 国际化与本地化
 :pencil2: (铅笔)                        | `:pencil2:`                  | 修复 typo
 
+
+### 如何在命令行中显示 emoji
+
+默认情况下，在命令行中并不会显示出 emoji, 仅显示 emoji 代码。不过可以使用 [emojify](https://github.com/mrowa44/emojify) 使得在命令行也可显示 emoji, 它是一个 shell 脚本，安装与使用都很简单，在 [这里](https://github.com/mrowa44/emojify) 查看如何安装与使用。
+
+![emojify](terminal_emojify.png)
+
 ### 参考
 
 - [gitmoji](https://github.com/carloscuesta/gitmoji/)
