@@ -1,6 +1,19 @@
 git commit emoji 使用指南
 ============================
 
+#### 目录
+
+<!-- vim-markdown-toc GFM -->
+
+* [commit 格式](#commit-格式)
+* [emoji 指南](#emoji-指南)
+* [如何在命令行中显示 emoji](#如何在命令行中显示-emoji)
+* [参考](#参考)
+  * [git commit emoji](#git-commit-emoji)
+  * [write a good commit message](#write-a-good-commit-message)
+
+<!-- vim-markdown-toc -->
+
 执行 `git commit` 时使用 emoji 为本次提交打上一个 "标签", 使得此次 commit 的主要工作得以凸现，也能够使得其在整个提交历史中易于区分与查找。
 
 截取的 [gitmoji](https://github.com/carloscuesta/gitmoji) 快照:
@@ -12,11 +25,11 @@ git commit emoji 使用指南
 `git commit` 时，提交信息遵循以下格式：
 
 ```sh
-:emoji1: :emoji2: 主题
+:emoji1: :emoji2: 不超过 50 个字的摘要，首字母大写，使用祈使语气，句末不要加句号
 
 提交信息主体
 
-Ref <###>
+引用相关 issue 或 PR 编号 <#110>
 ```
 
 初次提交示例：
@@ -69,9 +82,19 @@ emoji                                   | emoji 代码                   | commi
 
 ### 参考
 
+#### git commit emoji
+
 - [gitmoji](https://github.com/carloscuesta/gitmoji/)
-- [An emoji guide for your commit messages](https://gitmoji.carloscuesta.me/)
+- [emoji-cheat-sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
 - [styleguide-git-commit-message](https://github.com/slashsBin/styleguide-git-commit-message)
 - [atom git commit messages guide](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#git-commit-messages)
-- [emoji-cheat-sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
+- [An emoji guide for your commit messages](https://gitmoji.carloscuesta.me/)
 - [程序员提交代码的 emoji 指南——原来表情文字不能乱用](https://www.h5jun.com/post/gitmoji.html)
+
+#### write a good commit message
+
+- [A Note About Git Commit Messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+- [How to write a Git Commit Message (2014)](https://news.ycombinator.com/item?id=13889155)
+- [how to write a good git commit message](https://github.com/joelparkerhenderson/git_commit_message)
+- [5 Useful Tips For A Better Commit Message](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
+- [[How to commit a change with both “message” and “description” from the command line?](https://stackoverflow.com/questions/16122234/how-to-commit-a-change-with-both-message-and-description-from-the-command-li)](https://stackoverflow.com/questions/16122234/how-to-commit-a-change-with-both-message-and-description-from-the-command-li)
