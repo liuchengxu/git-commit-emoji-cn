@@ -97,4 +97,5 @@ emoji                                   | emoji 代码                   | commi
 - [How to write a Git Commit Message (2014)](https://news.ycombinator.com/item?id=13889155)
 - [how to write a good git commit message](https://github.com/joelparkerhenderson/git_commit_message)
 - [5 Useful Tips For A Better Commit Message](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
+- [Udacity Git Commit Message Style Guide](http://udacity.github.io/git-styleguide/)
 - [How to commit a change with both “message” and “description” from the command line?](https://stackoverflow.com/questions/16122234/how-to-commit-a-change-with-both-message-and-description-from-the-command-li)
