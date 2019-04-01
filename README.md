@@ -49,6 +49,7 @@ emoji                                   | emoji 代码                   | commi
 :ambulance: (急救车)                    | `:ambulance:`                | 重要补丁
 :globe_with_meridians: (地球)           | `:globe_with_meridians:`     | 国际化与本地化
 :lipstick: (口红)                       | `:lipstick:`                 | 更新 UI 和样式文件
+:clapper: (场记板)                      | `:clapper:`                  | 更新演示/示例
 :rotating_light: (警车灯)               | `:rotating_light:`           | 移除 linter 警告
 :wrench: (扳手)                         | `:wrench:`                   | 修改配置文件
 :heavy_plus_sign: (加号)                | `:heavy_plus_sign:`          | 增加一个依赖
