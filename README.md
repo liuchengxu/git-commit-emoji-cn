@@ -73,7 +73,7 @@ emoji                                   | emoji 代码                   | commi
 :apple: (苹果)                          | `:apple:`                    | 修复 macOS 下的问题
 :penguin: (企鹅)                        | `:penguin:`                  | 修复 Linux 下的问题
 :checkered_flag: (旗帜)                 | `:checked_flag:`             | 修复 Windows 下的问题
-:ok_hand:（同意）                         | `:ok_hand:`                  | 同意观点
+:ok_hand:（同意）                        | `:ok_hand:`                  | 同意观点
 
 
 ### 如何在命令行中显示 emoji
