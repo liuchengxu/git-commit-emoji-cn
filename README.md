@@ -43,7 +43,7 @@ git commit -m ":tada: Initialize Repo"
 emoji                                   | emoji 代码                   | commit 说明
 :--------                               | :--------                    | :--------
 :tada: (庆祝)                           | `:tada:`                     | 初次提交
-:sparkles: (火花)                       | `:sparkles:`                 | 引入新功能
+:new: (全新)                            | `:new:`                      | 引入新功能
 :bookmark: (书签)                       | `:bookmark:`                 | 发行/版本标签
 :bug: (bug)                             | `:bug:`                      | 修复 bug
 :ambulance: (急救车)                    | `:ambulance:`                | 重要补丁
