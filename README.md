@@ -65,7 +65,9 @@ emoji                                   | emoji 代码                   | commi
 :art: (调色板)                          | `:art:`                      | 改进代码结构/代码格式
 :fire: (火焰)                           | `:fire:`                     | 移除代码或文件
 :pencil2: (铅笔)                        | `:pencil2:`                  | 修复 typo
-:construction: (施工)                   | `:construction:`               | 工作进行中
+:construction: (施工)                   | `:construction:`             | 工作进行中
+:wastebasket: (垃圾桶)                  | `:wastebasket:`              | 废弃或删除
+:wheelchair: (轮椅)                     | `:wheelchair:`               | 可访问性
 :construction_worker: (工人)            | `:construction_worker:`      | 添加 CI 构建系统
 :green_heart: (绿心)                    | `:green_heart:`              | 修复 CI 构建问题
 :lock: (锁)                             | `:lock:`                     | 修复安全问题
@@ -91,6 +93,7 @@ emoji                                   | emoji 代码                   | commi
 - [atom git commit messages guide](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#git-commit-messages)
 - [An emoji guide for your commit messages](https://gitmoji.carloscuesta.me/)
 - [程序员提交代码的 emoji 指南——原来表情文字不能乱用](https://www.h5jun.com/post/gitmoji.html)
+- [Ant Design 更新日志 emoji 规范](https://github.com/ant-design/ant-design/wiki/%E8%BD%AE%E5%80%BC%E8%A7%84%E5%88%99%E5%92%8C%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83%E6%B5%81%E7%A8%8B#emoji-for-changelog)
 
 #### write a good commit message
 
