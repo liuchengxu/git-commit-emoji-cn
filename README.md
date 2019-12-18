@@ -67,6 +67,7 @@ emoji                                   | emoji 代码                   | commi
 :pencil2: (铅笔)                        | `:pencil2:`                  | 修复 typo
 :construction: (施工)                   | `:construction:`             | 工作进行中
 :wastebasket: (垃圾桶)                  | `:wastebasket:`              | 废弃或删除
+:wheelchair: (轮椅)                     | `:wheelchair:`               | 可访问性
 :construction_worker: (工人)            | `:construction_worker:`      | 添加 CI 构建系统
 :green_heart: (绿心)                    | `:green_heart:`              | 修复 CI 构建问题
 :lock: (锁)                             | `:lock:`                     | 修复安全问题
