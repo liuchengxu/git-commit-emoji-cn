@@ -59,8 +59,8 @@ emoji                                   | emoji 代码                   | commi
 :zap: (闪电)<br>:racehorse: (赛马)      | `:zap:`<br>`:racehorse:`      | 提升性能
 :chart_with_upwards_trend: (上升趋势图) | `:chart_with_upwards_trend:` | 添加分析或跟踪代码
 :rocket: (火箭)                         | `:rocket:`                   | 部署功能
-:white_check_mark: (白色复选框)         | `:white_check_mark:`         | 增加测试
-:memo: (备忘录)                         | `:memo:`                     | 撰写文档
+:white_check_mark: (白色复选框)         | `:white_check_mark:`           | 增加测试
+:memo: (备忘录)<br>:book: (书)          | `:memo:`<br>`:book:`          | 撰写文档
 :hammer: (锤子)                         | `:hammer:`                   | 重大重构
 :art: (调色板)                          | `:art:`                      | 改进代码结构/代码格式
 :fire: (火焰)                           | `:fire:`                     | 移除代码或文件
@@ -75,6 +75,8 @@ emoji                                   | emoji 代码                   | commi
 :apple: (苹果)                          | `:apple:`                    | 修复 macOS 下的问题
 :penguin: (企鹅)                        | `:penguin:`                  | 修复 Linux 下的问题
 :checkered_flag: (旗帜)                 | `:checkered_flag:`           | 修复 Windows 下的问题
+:twisted_rightwards_arrows: (交叉箭头)   | `:twisted_rightwards_arrows:`| 分支合并
+
 
 
 ### 如何在命令行中显示 emoji
