@@ -77,6 +77,8 @@ emoji                                   | emoji 代码                   | commi
 :checkered_flag: (旗帜)                 | `:checkered_flag:`           | 修复 Windows 下的问题
 :twisted_rightwards_arrows: (交叉箭头)   | `:twisted_rightwards_arrows:`| 分支合并
 
+关于其它个性化的emoji汇总网站：http://www.webpagefx.com/tools/emoji-cheat-sheet/
+
 
 
 ### 如何在命令行中显示 emoji
