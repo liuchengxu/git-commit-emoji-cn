@@ -109,6 +109,7 @@ emoji                                   | emoji 代码                   | commi
 :seedling: (种子)                | `:seedling:`                | 添加或更新种子文件         
 :triangular_flag_on_post: (旗帜) | `:triangular_flag_on_post:` | 添加、更新或删除功能标志 
 :dizzy: (头昏眼花)             | `:dizzy:`                   | 添加或更新动画和转换      
+:sunny: (太阳)             | `:sunny:`                   | 自然天气   
 
 ### 如何在命令行中显示 emoji
 
