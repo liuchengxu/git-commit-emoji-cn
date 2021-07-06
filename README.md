@@ -77,7 +77,9 @@ emoji                                   | emoji 代码                   | commi
 :checkered_flag: (旗帜)                 | `:checkered_flag:`           | 修复 Windows 下的问题
 :twisted_rightwards_arrows: (交叉箭头)   | `:twisted_rightwards_arrows:`| 分支合并
 :robot: （机器人)                        | `:robot:`                    | 修复 Android 下的问题
-:green_apple: （苹果)                        | `:green_apple:`                    | 	修复 IOS下的问题
+:green_apple: （苹果)                    | `:green_apple:`              | 	修复 IOS下的问题
+:pushpin: （图钉)                    | `:pushpin:`              | 	依赖固定到特定版本
+:recycle: （回收)                    | `:recycle:`              | 	添加 CI 构建系统
 
 
 ### 如何在命令行中显示 emoji
