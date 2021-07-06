@@ -80,7 +80,35 @@ emoji                                   | emoji 代码                   | commi
 :green_apple: （苹果)                    | `:green_apple:`              | 	修复 IOS下的问题
 :pushpin: （图钉)                    | `:pushpin:`              | 	依赖固定到特定版本
 :recycle: （回收)                    | `:recycle:`              | 	添加 CI 构建系统
-
+:package:(包裹)                  | `:package:`                 | 更新编译文件或Package        
+:alien: (外星人)                | `:alien:`                   | 由于外部API的更改而更新了代码 
+:truck: (卡车)                   | `:truck:`                   | 移动或重命名文件            
+:page_facing_up:(文件)           | `:page_facing_up:`          | 添加或更新 Licence             
+:boom: (隆隆声)                 | `:boom:`                    | 引入重大变化                  
+:bento: (便当)                   | `:bento:`                   | 添加或更新 Assets              
+:ok_hand:(OK)                      | `:ok_hand:`                 | 由于代码评审更改而更新代码 
+:wheelchair: (轮椅)              | `:wheelchair:`              | 提高可访问性                  
+:bulb: (电灯泡)                 | `:bulb:`                    | 记录源代码                     
+:beers: (啤酒)                   | `:beers:`                   | 醉醺醺地编写代码            
+:speech_balloon: (发言)          | `:speech_balloon:`          | 更新文本和文字               
+:card_file_box: (文件盒)        | `:card_file_box:`           | 执行与数据库相关的更改   
+:loud_sound: (巨大声响)        | `:loud_sound:`              | 添加日志                        
+:mute: (静音)                    | `:mute:`                    | 移除日志                        
+:busts_in_silhouette: (轮廓半身像) | `:busts_in_silhouette:`     | 添加贡献者                     
+:children_crossing: (儿童通过) | `:children_crossing:`       | 提高用户体验/可用性        
+:building_construction: (房屋)   | `:building_construction:`   | 使建筑变化                     
+:iphone: (苹果手机)            | `:iphone:`                  | 致力于响应式设计            
+:clown_face: (小丑)              | `:clown_face:`              | Mock 相关                         
+:egg:(彩蛋)                      | `:egg:`                     | 加入一个复活节彩蛋         
+:see_no_evil:(非礼勿视)        | `:see_no_evil:`             | 添加或更新 .gitignore 文件   
+:camera_flash: (相机)            | `:camera_flash:`            | 添加或更新快照               
+:alembic: (蒸馏器)              | `:alembic:`                 | 尝试新事物                     
+:mag: (放大镜)                  | `:mag:`                     | SEO 提升                          
+:wheel_of_dharma: (达摩车轮)   | `:wheel_of_dharma:`         | Kubernetes 相关工作            
+:label: (标签)                   | `:label:`                   | 添加或更新 types (Flow, TypeScript) 
+:seedling: (种子)                | `:seedling:`                | 添加或更新种子文件         
+:triangular_flag_on_post: (旗帜) | `:triangular_flag_on_post:` | 添加、更新或删除功能标志 
+:dizzy: (头昏眼花)             | `:dizzy:`                   | 添加或更新动画和转换      
 
 ### 如何在命令行中显示 emoji
 
