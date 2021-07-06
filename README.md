@@ -76,7 +76,8 @@ emoji                                   | emoji 代码                   | commi
 :penguin: (企鹅)                        | `:penguin:`                  | 修复 Linux 下的问题
 :checkered_flag: (旗帜)                 | `:checkered_flag:`           | 修复 Windows 下的问题
 :twisted_rightwards_arrows: (交叉箭头)   | `:twisted_rightwards_arrows:`| 分支合并
-
+:robot: （机器人)                        | `:robot:`                    | 修复 Android 下的问题
+:green_apple: （苹果)                        | `:green_apple:`                    | 	修复 IOS下的问题
 
 
 ### 如何在命令行中显示 emoji
